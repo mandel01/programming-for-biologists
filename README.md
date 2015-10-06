@@ -1,6 +1,6 @@
-# Programming for Biologists workshop series at Northwestern University Chicago Campus
+# Programming for Biologists
 
-All members of the Northwestern community are welcome to attend the user group and workshops presented. The goals of the group are two-fold:
+All members of the Northwestern community are welcome to attend the user group and workshops presented. The group is focused at the Northwestern University Chicago Campus and has the following goals:
 
 1. Introduce skills for researchers to conduct basic manipulations, run published software, and begin to write software themselves.
 2. To serve as a networking opportunity and launch pad for additional training and research collaboration.
