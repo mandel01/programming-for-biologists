@@ -1,5 +1,7 @@
 # Programming for Biologists
 
+<img src="images/pfb-logo.png" alt="Programming for Biologists Logo" width="400" align="center">
+
 The group is focused at the Northwestern University Chicago Campus and is open to all members of the Northwestern community. The goals of the group are:
 
 1. Introduce skills for researchers to conduct basic manipulations, run published software, and begin to write software themselves.
