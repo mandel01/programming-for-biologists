@@ -4,7 +4,7 @@ Additional resources for self-directed training in command line at the bash shel
 
 ### Cheat sheet
 
-[Shell reference sheet](shell-reference.pdf)
+[Shell reference sheet](shell-reference.md)
 
 ### Beginner level
 
