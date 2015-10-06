@@ -5,7 +5,7 @@ Thursday, September 18, 2015
 **Jackie Milhans, PhD**  
 [Research Computing](http://www.it.northwestern.edu/research/)  
 
-[Setup for the bash shell](installation-guides/command-line-and-git.md) - note some problems for FSM-owned Windows machines
+[Setup for the bash shell](../installation-guides/command-line-and-git.md) - note some problems for FSM-owned Windows machines
 
 Here are the links to the lessons:
 
@@ -14,4 +14,4 @@ Here are the links to the lessons:
 3. http://swcarpentry.github.io/shell-novice/01-filedir.html
 4. http://swcarpentry.github.io/shell-novice/02-create.html
 
-[Additional bash/command line training resources](training-resources/command-line.md)
+[Additional bash/command line training resources](../training-resources/command-line.md)
