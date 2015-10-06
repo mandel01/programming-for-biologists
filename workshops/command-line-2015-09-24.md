@@ -3,7 +3,7 @@
 Thursday, September 18, 2015
 
 **Jackie Milhans, PhD**  
-[Research Computing](http://www.it.northwestern.edu/research/)  
+Research Computing
 
 [Setup for the bash shell](../installation-guides/command-line-and-git.md) - note some problems for FSM-owned Windows machines
 
