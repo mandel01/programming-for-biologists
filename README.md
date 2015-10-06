@@ -1,6 +1,6 @@
 # Programming for Biologists
 
-The group is focused at the Northwestern University Chicago Campus and is open to all members of the Northwestern community. The goals of the group are: 
+The group is focused at the Northwestern University Chicago Campus and is open to all members of the Northwestern community. The goals of the group are:
 
 1. Introduce skills for researchers to conduct basic manipulations, run published software, and begin to write software themselves.
 2. To serve as a networking opportunity and launch pad for additional training and research collaboration.
@@ -12,6 +12,8 @@ The activities of the group are made possible with strong support from [Research
 ## Updated Calendar of Events
 
 [Planit Purple](http://planitpurple.northwestern.edu/calendar/4084)
+
+Please also see links to other [related events](related.md).
 
 ## User Group
 
