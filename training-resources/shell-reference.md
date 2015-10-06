@@ -47,6 +47,5 @@ done
 - `history` displays recent commands, and `!number` to repeat a command by number.
 - `bash filename` runs commands saved in `filename`.
 - `$*` refers to all of a shell script’s command-line parameters.
-1
 - `$1`, `$2`, etc., refer to specified command-line parameters.
 - `$(command)` inserts a command’s output in place.
