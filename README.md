@@ -20,7 +20,7 @@ The group meets weekly, Thursdays at 10:30 am - 12:00 pm. This is an opportunity
 ## Workshops
 
 | Title | Presenter | Date |
-| -- | -- | -- |
+| ----- | --------- | ---- |
 | [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans, PhD | September 24, 2015 |
 
 ## Listserv
