@@ -25,7 +25,7 @@ The group meets weekly, Thursdays at 10:30 am - 12:00 pm. This is an opportunity
 
 ## Listserv
 
-To join the listserv send a message to *listserv@listserv.it.northwestern.edu* with the following in the body (not subject) of the message, filled in with your information:
+To join the listserv send a message to listserv@listserv.it.northwestern.edu with the following in the body (not subject) of the message, filled in with your information:
 
 `SUBSCRIBE BIOCODING user@domain.edu Firstname Lastname`
 
