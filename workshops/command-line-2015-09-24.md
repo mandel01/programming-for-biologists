@@ -1,6 +1,7 @@
 # Introduction to the Command Line
 
 Thursday, September 18, 2015
+McGaw Pavilion, Williams Auditorium
 
 **Jackie Milhans, PhD**  
 Research Computing
