@@ -8,6 +8,7 @@ Thursday, September 18, 2015
 [Setup for the bash shell](installation-guides/command-line-and-git.md) - note some problems for FSM-owned Windows machines
 
 Here are the links to the lessons:
+
 1. Please follow the instructions here: http://swcarpentry.github.io/shell-novice/
 2. Intro to the Shell:  http://swcarpentry.github.io/shell-novice/00-intro.html
 3. http://swcarpentry.github.io/shell-novice/01-filedir.html
