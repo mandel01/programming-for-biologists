@@ -19,15 +19,15 @@ The group meets weekly, Thursdays at 10:30 am - 12:00 pm. This is an opportunity
 
 ## Workshops
 
-Title | Presenter | Date
--- | -- | --
-[Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans, PhD | September 24, 2015
+| Title | Presenter | Date |
+| -- | -- | -- |
+| [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans, PhD | September 24, 2015 |
 
 ## Listserv
 
 To join the listserv send a message to *listserv@listserv.it.northwestern.edu* with the following in the body (not subject) of the message, filled in with your information:
 
-SUBSCRIBE BIOCODING user@domain.edu Firstname Lastname
+`SUBSCRIBE BIOCODING user@domain.edu Firstname Lastname`
 
 ## Contact
 
