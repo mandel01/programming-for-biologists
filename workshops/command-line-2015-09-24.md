@@ -6,7 +6,7 @@ McGaw Pavilion, Williams Auditorium
 **Jackie Milhans, PhD**  
 Research Computing
 
-[Setup for the bash shell](../installation-guides/command-line-and-git.md) - note some problems for FSM-owned Windows machines
+[Setup for the bash shell](../training-resources/command-line-and-git-installation.md) - note some problems for FSM-owned Windows machines
 
 Here are the links to the lessons:
 
