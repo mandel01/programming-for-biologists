@@ -25,7 +25,8 @@ The group meets weekly, Thursdays at 10:30 am - 12:00 pm. This is an opportunity
 
 | Title | Presenter | Date |
 | ----- | --------- | ---- |
-| [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans, PhD | September 24, 2015 |
+| [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans | September 24, 2015 |
+| [Software Carpentry Workshop](http://xuf12.github.io/2015-11-10-northwesternu/) | Sarah Stevens, Jackie Milhans, Xu Fei | November 10-11, 2015 |
 
 ## Listserv
 
