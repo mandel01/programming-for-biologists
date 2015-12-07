@@ -37,3 +37,7 @@ To join the listserv send a message to listserv@listserv.it.northwestern.edu wit
 ## Contact
 
 [Mark Mandel](m-mandel@northwestern.edu)
+
+## Branding
+
+Some ninja Googling has revealed that there is this fairly generic name "Programming for Biologists" is already in use in [Ethan White's Programming for Biologists Curriculum](http://www.programmingforbiologists.org). To avoid any confusion a goal for Spring 2016 will be to rebrand this group as something Northwestern-specific. Names & logo ideas are welcome!
