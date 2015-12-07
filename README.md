@@ -40,4 +40,4 @@ To join the listserv send a message to listserv@listserv.it.northwestern.edu wit
 
 ## Branding
 
-Some ninja Googling has revealed that this fairly generic name "Programming for Biologists" is already in use in [Ethan White's Programming for Biologists Curriculum](http://www.programmingforbiologists.org). To avoid any confusion a goal for Spring 2016 will be to rebrand this group as something Northwestern-specific. Names & logo ideas are welcome!
+Some ninja Googling has revealed that this fairly generic name "Programming for Biologists" is already in use in [Ethan White's Programming for Biologists Curriculum](http://www.programmingforbiologists.org). To be clear, we are not affiliated with him at all -- but upon finding his site it looks fantastic and people should definitely check it out and support it! To avoid any confusion though, a goal for Spring 2016 will be to rebrand our group as something Northwestern-specific. Names & logo ideas are welcome!
