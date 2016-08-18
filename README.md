@@ -16,7 +16,7 @@ To achieve these goals, the group runs workshops and foster regular users group 
 | [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans | September 24, 2015 |
 | [Software Carpentry Workshop](http://xuf12.github.io/2015-11-10-northwesternu/) | Sarah Stevens, Jackie Milhans, Xu Fei | November 10-11, 2015 |
 | [Hour of Code](http://chipyhourofcode.pythonanywhere.com) | [ChiPy](http://www.chipy.org), Programming for Biologists, NU Research Computing | December 13, 2015 |
-| [Software Carpentry Workshop](http://www.it.northwestern.edu/research/about/campus-events/index.html) | NU Research Computing | November 10-11, 2015 |
+| [Software Carpentry Workshop](http://www.it.northwestern.edu/research/about/campus-events/index.html) | NU Research Computing | September 20-21, 2016 |
 
 
 ## Updated Calendar of Events
