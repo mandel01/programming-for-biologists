@@ -7,9 +7,17 @@ The group is focused at the Northwestern University Chicago Campus and is open t
 1. Introduce skills for researchers to conduct basic manipulations, run published software, and begin to write software themselves.
 2. To serve as a networking opportunity and launch pad for additional training and research collaboration.
 
-To achieve these goals, the group runs workshops, maintains a user group, and will begin to put together more advanced groups.
+To achieve these goals, the group runs workshops and foster regular users group meetings.
 
-The activities of the group are made possible with strong support from [Research Computing](http://www.it.northwestern.edu/research/).
+## Workshops
+
+| Title | Presented by | Date |
+| ----- | --------- | ---- |
+| [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans | September 24, 2015 |
+| [Software Carpentry Workshop](http://xuf12.github.io/2015-11-10-northwesternu/) | Sarah Stevens, Jackie Milhans, Xu Fei | November 10-11, 2015 |
+| [Hour of Code](http://chipyhourofcode.pythonanywhere.com) | [ChiPy](http://www.chipy.org), Programming for Biologists, NU Research Computing | December 13, 2015 |
+| [Software Carpentry Workshop](http://www.it.northwestern.edu/research/about/campus-events/index.html) | NU Research Computing | November 10-11, 2015 |
+
 
 ## Updated Calendar of Events
 
@@ -19,14 +27,7 @@ Please also see links to other [related events](related.md).
 
 ## User Group
 
-The group meets weekly, Thursdays at 10:30 am - 12:00 pm. This is an opportunity to follow up on the previous workshop material or to move into new areas. Work is self-directed. See the calendar for specific dates and locations.
-
-## Workshops
-
-| Title | Presenter | Date |
-| ----- | --------- | ---- |
-| [Introduction to the Command Line](workshops/command-line-2015-09-24.md) | Jackie Milhans | September 24, 2015 |
-| [Software Carpentry Workshop](http://xuf12.github.io/2015-11-10-northwesternu/) | Sarah Stevens, Jackie Milhans, Xu Fei | November 10-11, 2015 |
+In Fall 2015 a group met following the command line workshop, and in Winter/Spring 2016 a group from the Software Carpentry course met informally to follow up on Python material. In Fall 2016 we will look to assemble a Python-focused group of Chicago campus users.
 
 ## Listserv
 
@@ -34,10 +35,14 @@ To join the listserv send a message to listserv@listserv.it.northwestern.edu wit
 
 `SUBSCRIBE BIOCODING user@domain.edu Firstname Lastname`
 
+## Sponsors
+
+The activities of the group are made possible with support from [Research Computing](http://www.it.northwestern.edu/research/), from the [Driskill Graduate Program](http://www.feinberg.northwestern.edu/sites/dgp/), and from NSF grant IOS-1456963 to Mark Mandel.
+
 ## Contact
 
-[Mark Mandel](m-mandel@northwestern.edu)
+[Mark Mandel](http://www.feinberg.northwestern.edu/faculty-profiles/az/profile.html?xid=18804)
 
 ## Branding
 
-Some ninja Googling has revealed that this fairly generic name "Programming for Biologists" is already in use in [Ethan White's Programming for Biologists Curriculum](http://www.programmingforbiologists.org). To be clear, we are not affiliated with him at all -- but upon finding his site it looks fantastic and people should definitely check it out and support it! To avoid any confusion though, a goal for Spring 2016 will be to rebrand our group as something Northwestern-specific. Names & logo ideas are welcome!
+Some ninja Googling has revealed that this fairly generic name "Programming for Biologists" is already in use in [Ethan White's Programming for Biologists Curriculum](http://www.programmingforbiologists.org). To be clear, we are not affiliated with him -- but upon finding his site it looks fantastic and people should definitely check it out and support it! Ethan has generously permitted us to continue to use the name, but in the future it would be good to have unique, Northwestern-specific branding for our group. Names & logo ideas are welcome!
