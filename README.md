@@ -31,9 +31,9 @@ In Fall 2015 a group met following the command line workshop, and in Winter/Spri
 
 ## Listserv
 
-To join the listserv send a message to listserv@listserv.it.northwestern.edu with the following in the body (not subject) of the message, filled in with your information:
+To join the listserv send a message to `listserv@listserv.it.northwestern.edu` with the following in the body (not subject) of the message, filled in with your information:
 
-`SUBSCRIBE BIOCODING user@domain.edu Firstname Lastname`
+`SUBSCRIBE BIOCODING Firstname Lastname`
 
 ## Sponsors
 
