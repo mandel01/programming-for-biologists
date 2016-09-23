@@ -1,14 +1,19 @@
 # Links to other training
 
-### [MATLAB Instructional Seminars](https://go2.mathworks.com/ml-instruct-sems-at-northwestern-sem-na-1641008) (Evanston campus)
 
-September 8-9, 2016
+### [Researcher's Toolkit Series](http://www.it.northwestern.edu/research/about/campus-events/researcher-toolkit.html) (Evanston campus)
 
+The Researcher's Toolkit is a technology workshop series designed to help Northwestern researchers improve scholarly productivity and efficiency in the areas of programming, data analysis, scientific computing, data management, publication skills, and GIS. All workshops are held on the Evanston campus, beginning at noon
 
-### [Researcher's Toolkit Series](http://www.it.northwestern.edu/research/about/campus-events/index.html) (Evanston campus)
+### [The Computational Skills for Informatics (CSI)](https://galter.northwestern.edu/News/computational-skills-for-informatics-workshop-series-returns-in-fall-2016) at Galter Library
 
-The Researcher's Toolkit is a workshop series designed to help Northwestern researchers improve scholarly productivity and efficiency in the areas of version control, publication resources, scientific computing, operating systems, geographic information systems (GIS), and software training. New this quarter, all workshops are held in The Garage - Workspace, beginning at noon. Pizza and beverages are provided.
+New this year: Sessions will be held on Wednesdays
 
-### The Computational Skills for Informatics (CSI) at Galter Library
+Hosted by NUIT Research Computing, Galter Health Sciences Library and NUCATS, the CSI series is offering several new topics for this round.
 
-Will be updated in Fall 2016
+Beginning September 28, we will be presenting new topics relevant to bioinformatics and computation.
+
+- Sessions will be approximately 1.5 hours long, depending on the topic  
+- Sessions will be held in Galter Library's Learning Resource Center (LRC)  
+- Space will be limited, register using the links below each class description  
+- Bring your lunch for these "brown bag" sessions!  
