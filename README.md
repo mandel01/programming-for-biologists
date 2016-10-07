@@ -17,7 +17,7 @@ To achieve these goals, the group runs workshops and foster regular users group 
 | [Software Carpentry Workshop](http://xuf12.github.io/2015-11-10-northwesternu/) | Sarah Stevens, Jackie Milhans, Xu Fei | November 10-11, 2015 |
 | [Hour of Code](http://chipyhourofcode.pythonanywhere.com) | [ChiPy](http://www.chipy.org), Programming for Biologists, NU Research Computing | December 13, 2015 |
 | [Seminar: Toward genome-resolved metagenomics, with applications to genomic epidemiology](http://planitpurple.northwestern.edu/event/502043) | [Aaron Darling, PhD](http://darlinglab.org) | September 16, 2016 |
-| [Software Carpentry Workshop](http://www.it.northwestern.edu/research/about/campus-events/index.html) | NU Research Computing | September 20-21, 2016 |
+| [Software Carpentry Workshop](https://nuitrcs.github.io/ProgrammingForBiologists/) | NU Research Computing | September 20-21, 2016 |
 
 
 ## Updated Calendar of Events
