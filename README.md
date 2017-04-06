@@ -18,6 +18,9 @@ To achieve these goals, the group runs workshops and foster regular users group 
 | [Hour of Code](http://chipyhourofcode.pythonanywhere.com) | [ChiPy](http://www.chipy.org), Programming for Biologists, NU Research Computing | December 13, 2015 |
 | [Seminar: Toward genome-resolved metagenomics, with applications to genomic epidemiology](http://planitpurple.northwestern.edu/event/502043) | [Aaron Darling, PhD](http://darlinglab.org) | September 16, 2016 |
 | [Software Carpentry Workshop](https://nuitrcs.github.io/ProgrammingForBiologists/) | NU Research Computing | September 20-21, 2016 |
+| [Software Carpentry Workshop](https://www.eventbrite.com/e/software-carpentry-chicago-tickets-31951199899) | NU Research Computing | April 24-25, 2017 |
+
+
 
 
 ## Updated Calendar of Events
