@@ -19,7 +19,8 @@ To achieve these goals, the group runs workshops and foster regular users group 
 | [Seminar: Toward genome-resolved metagenomics, with applications to genomic epidemiology](http://planitpurple.northwestern.edu/event/502043) | [Aaron Darling, PhD](http://darlinglab.org) | September 16, 2016 |
 | [Software Carpentry Workshop](https://nuitrcs.github.io/ProgrammingForBiologists/) | NU Research Computing | September 20-21, 2016 |
 | [Software Carpentry Workshop](https://nuitrcs.github.io/NU-SWC-April2017/) | NU Research Computing | April 24-25, 2017 |
-
+| [Transposon Insertion Sequencing Workshop](https://2017-dibsi-tnseq.readthedocs.io/en/latest/) | Mark Mandel | July 17-19, 2018 |
+| [Transposon Insertion Sequencing Workshop](https://2018-inseq-workshop.readthedocs.io/en/latest/) | Mark Mandel (Madison, WI) | August 13-14, 2018 |
 
 
 
